@@ -4,7 +4,7 @@ namespace REST_API_CRUD.Repositories
 {
     public interface IEmployee
     {
-        List<Employee> getAllEmoloyees();
+        List<Employee> getAllEmployees();
 
         Employee getEmployeeById(Guid id);
 
