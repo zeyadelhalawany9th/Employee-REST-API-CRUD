@@ -12,8 +12,8 @@ using REST_API_CRUD.Models;
 namespace REST_API_CRUD.Migrations
 {
     [DbContext(typeof(EmployeeContext))]
-    [Migration("20220414181107_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20220415011653_InitilMigration")]
+    partial class InitilMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

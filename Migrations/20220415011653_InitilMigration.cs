@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace REST_API_CRUD.Migrations
 {
-    public partial class InitialMigration : Migration
+    public partial class InitilMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
